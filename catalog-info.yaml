@@ -3,6 +3,7 @@ kind: Component
 metadata:
   name: srs-sdp-integration
   description: SRS SDP Integration to Cloudeka Service Portal
+  tags: ["srs"]
   annotations:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: Lintasarta/srs-sdp_integration-v1.0
