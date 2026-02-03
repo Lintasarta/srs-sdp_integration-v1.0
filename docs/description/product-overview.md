@@ -1,0 +1,3 @@
+# Product Overview
+
+This project involves an enhancement to the existing Cloudeka Service Portal, integrating it with the operation team's Service Desk Portal (ManageEngine ServiceDesk Plus). This integration establishes a robust ticketing system primarily for clients (users) to request information or report problems when using Cloudeka GPU services. The Cloudeka Service Portal will serve as the user-facing interface for ticket submission and monitoring, while the Service Desk Portal will be the backend system where the operation team manages and resolves these tickets. The two portals will communicate via API requests to synchronize ticket details, discussions, and attachments.
